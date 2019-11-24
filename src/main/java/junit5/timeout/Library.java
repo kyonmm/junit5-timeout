@@ -4,7 +4,7 @@
 package junit5.timeout;
 
 public class Library {
-    public boolean someLibraryMethod() {
-        return true;
-    }
+  public boolean someLibraryMethod() {
+    return true;
+  }
 }
